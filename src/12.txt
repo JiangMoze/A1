@@ -1,0 +1,14 @@
+1.Date SimpleDateFormat yyyy-MM-dd HH :mm :ss 
+2.Calendar
+3.System.currentMills
+4.作业：月历
+5.Math.ceil floor pow random
+6.作业：写出从 a-z 5个随机数，且不能有重复的
+7.选择作业：四舍六入五不动
+8.StringBuffer和StringBuilder的区别：
+  StringBuffer:线程安全，速度慢
+  StringBuilder:线程不安全，速度快
+9当重写的时候，儿子的范围修饰符应该比父亲更宽松或相等 private [default] protected public
+10.作业：重写equals
+11.前缀：prefix 尾缀：suffix
+12.作业：去掉中间空格

@@ -1,0 +1,21 @@
+1.OOP:Origent Object Programme:面向对象编程
+2.面向对象三大特性：
+  1.封装：Encapsulation
+  2.继承：Inheritance
+  3.多态：Polymorphism：MultiMedia
+3.instance:实例
+4.数据特征(data Specialty)：属性：Attribute/Property
+5.行为特征(Action Specialty):方法 Method/Function
+6.作业：必须用封装写，两个类。getter/setter：Student：no name address old sex salary:生动的把他们连在一起 输出
+7.Constructor：构造器：
+  Destructor:析构器
+8.作业：必须用封装写，两个类 司机
+9.byte (8bit),short(16bit) int long
+  float double
+  char
+  boolean
+10.作业：方法的形参是基本类型，那么他一定是值传递
+11.作业：方法的形参是引用类型，那么他一定是值传递（地址）：引用传递
+12.作业：方法的形参是String Byte Short Integer Long Float Double Character Boolean这些类型时
+由于它是常量，所以传递的是副本，因此自己不变，也遵循 11条
+  

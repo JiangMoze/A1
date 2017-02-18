@@ -1,0 +1,29 @@
+1.Inheritance：继承
+2.Object下的方法：
+ a.getClass:取得当前对象的运行时类。
+ b.hashCode:返回该对象的hash码。
+ c.notify:唤醒当前被等候的单个线程。
+ d.clone:复制某个对象的副本
+ e.equals:比较对象是否相等。==：栈的值是否相等 equals:堆的值是否相等。
+ f.toString:返回的该对象的经过hash处理的地址。
+ g.wait:让当前线程等候
+ h.notifyAll:唤醒所有被等候的线程。
+ i.finalize:垃圾回收在回收对象之前走的方法，确认该对象没有被引用。
+3.作业：Animal [color,age] --> Cat[miaomiao]  Test[即使用Animal的方法，也使用自己的方法]
+4.UML：类图：包图，状态图，时序图，用例图，活动图
+5.作业：组合：Composition
+     聚合：Aggregation
+    为什么用：不用继承特性，还想使用其另个类的成员，
+6.作业：构造器：int  char String float : 65个   
+7.作业：this三种用法：
+  a.调用自己的成员[方法，属性]
+  b.调用自己的构造器
+  c.返回自己
+8.作业：super
+  a.调用父亲构造器
+  b.调用父亲成员[方法，属性]
+9.初始化块先执行
+10.作业：宝马那个。
+
+
+ 

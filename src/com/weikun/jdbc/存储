@@ -1,0 +1,33 @@
+drop procedure if exists p_7;
+DELIMITER $
+create procedure p_7(
+ in in_price float(10,2),
+ out out_flag varchar(10)
+)
+begin
+
+	select *
+	from products 
+	where prod_price >in_price;
+	set out_flag:="success";
+end $
+DELIMITER ;
+
+
+drop function if exists f_7;
+DELIMITER $
+create function f_7(
+ in_ordernum int
+
+)returns int
+begin
+
+	set @sum1:=0;
+	select sum(o.item_price*o.quantity*0.1) into @sum1
+	from orderitems o
+	inner join products p on(o.prod_id=p.prod_id)
+	where o.order_num=in_ordernum;
+	return @sum1;
+	
+end $
+DELIMITER ;

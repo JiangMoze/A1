@@ -1,0 +1,7 @@
+1.作业：适配器设计模式：(Adapter Pattern):
+2.  作业：  观察者模式(Observer Pattern)
+3.作业：装饰者模式(Decorator Pattern);
+4.作业：命令模式(Command Pattern)
+5.作业：代理模式(Proxy Pattern)
+      静态代理模式
+     动态代理模式：java版，CGLIB版

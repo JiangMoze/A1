@@ -1,0 +1,21 @@
+1.byte short int long
+  float double
+  char
+  boolean
+2.stack
+3.reference type:stack heap
+  stack---0xEEFE--heap[首地址]
+  String s[stack]="北京"[heap]
+  s.[stack.handler]
+4. ArrayIndexOutOfBoundsException:数组越界异常
+5.length=size=长度
+6.数组一旦创建就不能改变其大小,就是由于以上，所以数组
+快，性能好。
+  ArrayList：可以随时改变大小，但是他的性能慢。
+7.作业：do while /while的循环累加(0-100)
+8.NullPointerException:空指针错误【没有堆，你还得非使用堆】
+9.作业：最大值，平均值，复制数组，颠倒数组
+10.java.lang
+   java.util[utility]
+11.作业：手写二分查找法。
+12.作业：手写三维数组，x y z 并遍历

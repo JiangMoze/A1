@@ -1,0 +1,42 @@
+1Primitive Type:原始类型：
+   byte(1字节：8bits) short(2字节，16bit) [int](4字节，32bit)
+   long(8字节，64bit)
+   float(4字节 32bit)
+   [double](8字节，64bit)
+   stack int i=2;//i-stack(2)
+2Reference type:引用类型：除了基本就是引用，class[String] Interface Arrays null 
+ 有堆有栈 String s="北京";//stack=0x0001(heap[北京])
+3.local varriable：局部变量：必须有初值
+  glocal varriable:全局变量，不用付初值 long:0L float 0.0f char='\u0000' boolean false
+4.作业：正方形，三角形，矩形，圆形float p=3.14f，梯形，
+5.基本类型做形参，一定传进来的是值，
+6作业：age=45 是中年人吗？
+7作业：if else 的闰年 1998
+8.作业：分数等级（0--100）switch
+9作业：元音辅音 switch  
+10.作业：  
+   8888888888888888
+   666666    666666
+   4444        4444
+   22            22
+   22            22
+   4444        4444
+   666666    666666
+   8888888888888888
+11.作业：大宝剑     
+12.作业：九九乘法表
+13.作业(选作)：aba
+14.while(){}：有可能一次都不执行
+   do {}while();至少执行一次！
+15.作业：while做妈妈
+16.作业：int [] a={1,2,3,4,5};
+    do..while
+17.break:跳出当前层次循环
+   continue：跳出本次循环，继续下一次循环
+   return：最利索的，直接彻底了
+
+
+   
+
+
+

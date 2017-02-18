@@ -1,0 +1,24 @@
+1.java出生地：Oracle
+2.J2ME:java 2 Micro Edition
+3.Android:Linux(C,C++)
+4.J2SE:Java 2 standard Edition java2标准版
+5.J2EE：Java 2 Enterprise Edition:java2企业版
+6.编译型语言：只能用某种平台，速度比较快
+7.解释型语言：可以跨平台，速度慢，
+  浏览器(HTML CSS JavaScript)
+8.java先编译后解释
+9.Platform:OS
+  ios,imac-Unix
+  android(linux[red hat]---unix),
+  Centos
+  windows[win31 win32 windows95 97 98 me 2000
+  2003 xp vista win7 8 10]--dos
+10jvm:Java Virtual Machine
+11.JRE:java runtime Environment:
+12.JDK:java Development Kits;
+13.GC:Garbage Collection:释放内存
+14.javac:java compile:java编译
+   javac:java--class
+
+
+

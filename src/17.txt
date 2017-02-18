@@ -1,0 +1,5 @@
+1.作业：文件传输和聊天
+2.作业：
+     设计模式：  门面模式(Facade Pattern)
+     单子模式：Singleton Pattern(4种)
+     工厂模式：Factory Pattern(SimpleFactory,Factory Method)

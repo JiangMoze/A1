@@ -1,0 +1,22 @@
+1.反射,反射构造器
+2.jar=java archive 
+  war=web archive
+  ear=enterprise archive
+3.作业：反射构造器：默认，非默认
+      反射方法
+     反射属性
+     反射数组
+4.作业：线程：Thread Runnable
+  setPriority 
+  setName  
+  stop 
+  start 
+  sleep 
+  yield
+5.作业：join
+6.作业：守护线程
+7.作业：线程同步取钱
+8.作业：线程通信
+9.作业：线程组，线程池
+
+

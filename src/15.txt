@@ -1,0 +1,15 @@
+1.数组缺陷：数组一旦定义就不能改变其长度。
+2.HashSet--->Set--->Collection
+  作业：ArrayList--->List---->Collection:遍历：线程不安全的，但是他快
+     Vector--->List--->Collection:线程安全的，但是他慢
+ 作业：冰箱
+ 作业：购物车
+  HashMap--->Map：线程不安全的，速度快 允许有空键 空值 ，父亲是Map
+  Hashtable--->Map:线程安全的，速度慢,不允许有空键 空值,父亲是Dictionary
+ 
+作业：map的排序
+  LinkedList--->Queue---Collection
+ 
+  Properties--->Hashtable---->Map
+ 
+  
